@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_catalogs"
+            android:icon="@drawable/ic_catalogs_black_24dp"
+            android:title="Catalogs" />
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Cart" />
+    </group>
+
+
+    <item android:title="Information"
+        android:id="@+id/nav_infor">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_my_page"
+                    android:icon="@drawable/ic_person_outline_black_24dp"
+                    android:title="My page" />
+
+                <item
+                    android:id="@+id/nav_correct_the_information"
+                    android:icon="@drawable/ic_edit_black_24dp"
+                    android:title="Correct the information" />
+
+                <item
+                    android:id="@+id/nav_change_password"
+                    android:icon="@drawable/ic_lock_outline_black_24dp"
+                    android:title="Change password" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout_black_24dp"
+                    android:title="Log out" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "534375501452",
+    "firebase_url": "https://nhomcaps2-a5771.firebaseio.com",
+    "project_id": "nhomcaps2-a5771",
+    "storage_bucket": "nhomcaps2-a5771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534375501452:android:9e44ecb203bfe6d88335a9",
+        "android_client_info": {
+          "package_name": "com.capstone2.funiturear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534375501452-jrnoib3kmq455fj975gpoeptaah0uinr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone2.funiturear",
+            "certificate_hash": "e6fa1a758a4fef3700bcc685f877b394c2240647"
+          }
+        },
+        {
+          "client_id": "534375501452-ti24ka2jgshs6d3f3o1q3jc70t2bnor8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDn3GAWbXkIVLTgHlL6iGHEqw6mQd6v2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534375501452-ndk0sv7vsc44r14l2jkqmfmner8t4bmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
